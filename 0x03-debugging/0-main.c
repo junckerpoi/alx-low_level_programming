@@ -14,27 +14,3 @@ int main(void)
 
 	return (0);
 }
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
--- INSERT --                                                                           0,1           All
-
